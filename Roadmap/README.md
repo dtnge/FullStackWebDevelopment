@@ -130,6 +130,136 @@
     - [ ] VueX &#x1F49A;
 </details>
 
+<details>
+  <summary><b>Modern CSS</b></summary> 
+  
+  - [ ] Styled Components &#x1F49C;
+  - [ ] CSS Module &#x1F49C;
+  - [ ] Styled JSX &#x1F49A;
+  - [ ] Emotion &#x1F49A;
+  - [ ] Radium &#x1F49B;
+  - [ ] Glamorou &#x1F49B;
+</details>
+
+<details>
+  <summary><b> Web Components</b></summary> 
+  
+  - [ ] HTML Templates &#x1F499;
+  - [ ] Custom Elements &#x1F499;
+  - [ ] Shadow DOM &#x1F499;
+</details>
+
+<details>
+  <summary><b> CSS Frameworks</b></summary> 
+  
+  > JS based and better to use with your framework based JavaScript applications
+  - [ ] Reactstrap &#x1F49C;
+  - [ ] Material UI &#x1F49C;
+  - [ ] Tailwind CSS &#x1F49A;
+  - [ ] Chakra UI &#x1F49A;
+
+  > CSS first frameworks which don't come with JavaScript components by default
+  - [ ] Bootstrap &#x1F49C;
+  - [ ] Materialize CSS &#x1F49A;
+  - [ ] Bulma &#x1F49A;
+</details>
+
+<details>
+  <summary><b> Testing your Apps</b></summary> 
+  
+  > Learn the difference between Unit, Integration, and Functional tests and learn how to write them with the tools listed on the left
+  - [ ] Mocha &#x1F49B;
+  - [ ] Chai &#x1F49B;
+  - [ ] Ava &#x1F49B;
+  - [ ] Jasmine &#x1F49B;
+
+  > you can fill all your testing needs with just these
+  - [ ] Jest &#x1F49C;
+  - [ ] react-testing-library &#x1F49C;
+  - [ ] Cypress &#x1F49C;
+  - [ ] Enzyme &#x1F49C;
+</details>
+
+<details>
+  <summary><b>TypeCheckers</b></summary> 
+  
+  - [ ] TypeScript &#x1F49C; &#x1F499;
+  - [ ] Flow &#x1F49B;
+</details>
+
+<details>
+  <summary><b>Progressive Web Apps</b></summary> 
+  
+  > Learn different Web APIs used in PWAs
+  - [ ] Storage &#x1F499;
+  - [ ] Web Sockets &#x1F499;
+  - [ ] Service Workers &#x1F499;
+  - [ ] Location &#x1F499;
+  - [ ] Notifications &#x1F499;
+  - [ ] Device Orientation &#x1F499;
+  - [ ] Payments &#x1F499;
+  - [ ] Credentials &#x1F499;
+
+  > Calculating, Measuring and Improving performance
+  - [ ] PRPL Pattern &#x1F499;
+  - [ ] RAIL Model &#x1F499;
+  - [ ] Performance Metrics &#x1F499;
+  - [ ] Using Lighthouse &#x1F499;
+  - [ ] Using DevTools &#x1F499;
+</details>
+
+<details>
+  <summary><b>Server Side Rendering (SSR)</b></summary> 
+  
+  - [ ] React.js &#x1F49C;
+    - [ ] Next.js &#x1F49C;
+    - [ ] After.js &#x1F49B;
+  - [ ] Angular &#x1F49A;
+    - [ ] Universal &#x1F49A;
+  - [ ] Vue.js &#x1F49A;
+    - [ ] Nuxt.js &#x1F49A;
+</details>
+
+<details>
+  <summary><b>GraphQL</b></summary> 
+  
+  - [ ] Apollo  &#x1F49C;
+  - [ ] Relay Modern &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Static Site Generators</b></summary> 
+  
+  - [ ] Next.js &#x1F49C;
+  - [ ] GatsbyJS &#x1F49C;
+  - [ ] Nuxt.js &#x1F49A;
+  - [ ] Vuepress &#x1F49A;
+  - [ ] Jekyll &#x1F49A;
+  - [ ] Hugo &#x1F49A;
+  - [ ] Gridsome &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Mobile Applications</b></summary> 
+  
+  - [ ] React Native &#x1F49C;
+  - [ ] Native Script
+  - [ ] Flutter
+  - [ ] Ionic
+</details>
+
+<details>
+  <summary><b>Desktop Applications</b></summary> 
+  
+  - [ ] Electron &#x1F49C;
+  - [ ] Carlo &#x1F49B;
+  - [ ] Proton Native &#x1F49B;
+</details>
+
+Web Assembly
+
+Keep Learning
+
 ## Back-end Roadmap
 
 ## DevOps Roadmap
