@@ -28,6 +28,8 @@ Web Development
 <details>
 <summary><i>Internet</i></summry>
 
+<p>
+
 > How does the Internet work?
 
 > What is HTTP?
@@ -40,6 +42,7 @@ Web Development
 
 > What is hosting?
 
+</p>
 </details>
 
 ## Back-end Roadmap
