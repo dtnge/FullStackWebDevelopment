@@ -26,8 +26,25 @@ Web Development
 ## Front-end Rodmap
 
 <details>
-<summary><i>Internet</i></summry>
-<p>New Paragraph
+<summary><i>Internet</i>
+</summry>
+
+
+
+<p>
+
+ How does the Internet work?
+
+ What is HTTP?
+
+ Browser and how they work?
+
+ DNS and how it work?
+
+ What is Domain Name?
+
+ What is hosting?
+
 </p>
 </details>
 
