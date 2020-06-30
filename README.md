@@ -25,7 +25,8 @@ Web Development
 
 ## Front-end Rodmap
 
-- [ ] Internet
+<details>
+<summary><i>Internet</i></summry>
 
 > How does the Internet work?
 
@@ -38,6 +39,8 @@ Web Development
 > What is Domain Name?
 
 > What is hosting?
+
+</details>
 
 ## Back-end Roadmap
 
