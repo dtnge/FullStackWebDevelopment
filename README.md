@@ -26,8 +26,8 @@ Web Development
 ## Front-end Rodmap
 
 <details>
-<summary><i>Internet</i></summry>
 
+<summary><i>Internet</i></summry>
 
 
 > How does the Internet work?
