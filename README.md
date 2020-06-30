@@ -24,8 +24,7 @@ Web Development
 3. DevOps
 
 ## Front-end Rodmap
-- [ ] Internet
-<details>
+- [ ] Internet <details>
   <summary></summary>
   
   1. How does the internet work?
