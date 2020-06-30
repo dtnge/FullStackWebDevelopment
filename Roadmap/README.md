@@ -256,10 +256,216 @@
   - [ ] Proton Native &#x1F49B;
 </details>
 
-Web Assembly
+**Web Assembly**
 
-Keep Learning
+**Keep Learning**
 
 ## Back-end Roadmap
+
+<details>
+  <summary><b>Internet</b></summary> 
+  
+  - [ ] How does teh internet work? &#x1F49C;
+  - [ ] What is HTTP? &#x1F49C;
+  - [ ] Browsers and how they work? &#x1F49C;
+  - [ ] DNS and how it works? &#x1F49C;
+  - [ ] What is Domain Name? &#x1F49C;
+  - [ ] What is hosting? &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Basic Frontend Knowledge</b></summary> 
+  
+  - [ ] HTML &#x1F49C;
+  - [ ] CSS &#x1F49C;
+  - [ ] JavaScript &#x1F49C;
+</details>
+
+<details>
+  <summary><b>OS and General Knowledge </b></summary> 
+  
+  - [ ] Terminal Usage &#x1F49C;
+  - [ ] How OSs work in General &#x1F49C;
+  - [ ] Process Management &#x1F49C;
+  - [ ] Threads and Concurrency &#x1F49C;
+  - [ ] Basic Terminal Command (grep, awk, sed, lsof, curl, wget, tail, head, less, fnd, ssh, kill) &#x1F49C;
+  - [ ] Memory Management &#x1F49C;
+  - [ ] Interprocess Communication &#x1F49C;
+  - [ ] I/O Management &#x1F49C;
+  - [ ] POSIX Basics (stdin, stdout, stderr, pipes) &#x1F49C;
+  - [ ] Basic Networking Concepts  &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Learn a Language</b></summary> 
+  
+  > Make sure to learn it;s quirks. Core detail about it's runtime e.g. concurrency, memory model etc
+  - [ ] Java &#x1F49A;
+  - [ ] C# &#x1F49A;
+  - [ ] PHP &#x1F49A;
+  - [ ] Rust &#x1F49A;
+  - [ ] Go &#x1F49A;
+  - [ ] JavaScript &#x1F49C;
+  - [ ] Python &#x1F49A;
+  - [ ] Ruby &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Version Control Systems</b></summary> 
+  
+  - [ ] Basic Usage of Git &#x1F49C;
+  > Create account and Learn to use GitHub
+  - [ ] Repo hosting services
+    - [ ] GitHub &#x1F49C;
+    - [ ] Gitlab &#x1F49A;
+    - [ ] Bitbucket &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Relational Databases</b></summary> 
+  
+  - [ ] PostgreSQL &#x1F49C;
+  - [ ] MySQL &#x1F49A;
+  - [ ] MariaDB &#x1F49A;
+  - [ ] MS SQL &#x1F49A;
+  - [ ] Oracle &#x1F49A;
+</details>
+
+<details>
+  <summary><b>NoSQL Databases</b></summary> 
+  
+  - [ ] MongoDB &#x1F49C;
+  - [ ] RethinkDB &#x1F49A;
+  - [ ] CouchDB &#x1F49A;
+  - [ ] DynamoDB &#x1F49A;
+</details>
+
+<details>
+  <summary><b>More about Databases</b></summary> 
+  
+  - [ ] ORMs &#x1F49C;
+  - [ ] ACID &#x1F49C;
+  - [ ] Transactions &#x1F49C;
+  - [ ] N+1 Problem &#x1F49C;
+  - [ ] Database Normalization &#x1F49C;
+  - [ ] Indexes and how they work &#x1F49C;
+  - [ ] Data Replication &#x1F499;
+  - [ ] Shading Strategies &#x1F499;
+  - [ ] CAP Theorem &#x1F499;
+</details>
+
+<details>
+  <summary><b>Learn about APIs</b></summary> 
+  
+  - [ ] HATEOAS &#x1F499;
+  - [ ] Open API Spec and Swagger &#x1F499;
+  - [ ] Authentication &#x1F49C;
+    - [ ] Cookie Based &#x1F499;
+    - [ ] OAuth &#x1F49C;
+    - [ ] Basic Authentication &#x1F49C;
+    - [ ] Token Authentication &#x1F49C;
+    - [ ] JWT &#x1F49C;
+    - [ ] OpenID &#x1F499;
+    - [ ] SAML &#x1F499;
+  - [ ] REST &#x1F49C;
+  - [ ] JSON APIs &#x1F49C;
+  - [ ] SOAP &#x1F499;
+  - [ ] gRPC &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Caching</b></summary> 
+  
+  - [ ] CDN &#x1F49C;
+  - [ ] Server Side
+    - [ ] Redis &#x1F49C;
+    - [ ] Memcached &#x1F49A;
+  - [ ] Cleint Side &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Web Security Knowledge</b></summary> 
+  
+  - [ ] MD5 and why not to use it &#x1F49C;
+  - [ ] SHA Family &#x1F49C; 
+  - [ ] scrypt &#x1F49C;
+  - [ ] bcrypt &#x1F49C;
+  > Hashing Algorithms
+
+  - [ ] HTTPS &#x1F49C;
+  - [ ] Content Security Policy &#x1F49C;
+  - [ ] CORS &#x1F49C;
+  - [ ] SSL/TLS &#x1F49C;
+  - [ ] OWASP Security Risks &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Testing</b></summary> 
+  
+  - [ ] Integration Testing &#x1F49C;
+  - [ ] Unit Testing &#x1F49C;
+  - [ ] Functional Testing &#x1F49C;
+</details>
+
+**CI/CD**  &#x1F49C;
+
+<details>
+  <summary><b>Design and Development Principles<b></summary> 
+  
+  - [ ] GOF Design Patterns &#x1F499;
+  - [ ] Domain Driven Design &#x1F499;
+  - [ ] Test Driven Development &#x1F499;
+  - [ ] SOLID &#x1F49C;
+  - [ ] KISS &#x1F49C;
+  - [ ] YAGNI &#x1F49C;
+  - [ ] DRY &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Architectural Patterns<b></summary> 
+  
+  - [ ] Monolithic Apps &#x1F49C;
+  - [ ] Microservices &#x1F49C;
+  - [ ] SOA &#x1F49C;
+  - [ ] CQRS and Event Sourcing &#x1F499;
+  - [ ] Serverless &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Search Engines<b></summary> 
+  
+  - [ ] Elasticsearch &#x1F49C;
+  - [ ] Solr &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Message Brokers<b></summary> 
+  
+  - [ ] RabbitMQ &#x1F499; &#x1F49C;
+  - [ ] Kafka &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Containerization vs Virtualization<b></summary> 
+  
+  - [ ] Docker &#x1F49C;
+  - [ ] rkt &#x1F49B;
+  - [ ] LXC &#x1F49B;
+</details>
+
+<details>
+  <summary><b>GraphQL<b></summary> 
+  
+  - [ ] Apollo &#x1F49C; &#x1F499;
+  - [ ] Relay Modern &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Graph Databases<b></summary> 
+  
+  - [ ] Neo4j &#x1F499;
+</details>
+
+**WebSockets** &#x1F499;
 
 ## DevOps Roadmap
