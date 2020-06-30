@@ -53,6 +53,82 @@
   - [ ] Resposice Design and Media Queries &#x1F49C;
 </details>
 
+<details>
+  <summary><b>JavaScript</b></summary> 
+  
+  - [ ] Syntax and Basic Constructs &#x1F49C;
+  - [ ] Learn DOM Manipulation &#x1F49C;
+  - [ ] Learn Fetch API / Ajax (XHR) &#x1F49C;
+  - [ ] ES6+ and modular JS &#x1F49C;
+  - [ ] Understanding concpepts (hosting, event bubbling, scope, prototype, shadow DOM, strict) &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Version Control System</b></summary> 
+  
+  - [ ] Repo hosting Service 
+  > Create account and learn how to use github
+    - [ ] Git Hub &#x1F49C;
+    - [ ] Git Lab &#x1F49A;
+    - [ ] Bitbucket &#x1F49A;
+  - [ ] Basic Usage of Git
+</details>
+
+<details>
+  <summary><b>Web Security Knowledge</b></summary> 
+  
+  - [ ] HTTPS &#x1F499;
+  - [ ] Content Security Policy &#x1F499;
+  - [ ] CORS &#x1F499;
+  - [ ] OWASP Security Risks &#x1F499;
+</details>
+
+<details>
+  <summary><b>CSS Architectures</b></summary> 
+  
+  > with modern framework and CSS-in-JS you don't have to worry about these anymore but still it would be a good idea to get familiarized with BEM atleast
+  - [ ] BEM &#x1F499;
+  - [ ] OOCSS &#x1F49B;
+  - [ ] SMACSS &#x1F49B;
+</details>
+
+<details>
+  <summary><b>CSS Preprocessors</b></summary> 
+  
+  > with how the modern framework there has been more push towards CSS-in-JS so you may not need these but still a good idea to familiarize yourself
+  - [ ] Sass &#x1F499;
+  - [ ] PostCSS &#x1F499;
+  - [ ] Less &#x1F49B;
+</details>
+
+<details>
+  <summary><b>Build Tools</b></summary> 
+  
+  - [ ] Task Runners 
+    - [ ] npm scripts &#x1F49C;
+    - [ ] Gulp &#x1F49B;
+  - [ ] Module Bundlers
+    - [ ] Webpack &#x1F49C;
+    - [ ] Rollup &#x1F49A;
+    - [ ] Parcel &#x1F49A;
+  - [ ] Linters and Formatters
+    - [ ] Prettier &#x1F499;
+    - [ ] ESLint &#x1F499;
+    - [ ] StandardJS &#x1F49B;
+</details>
+
+<details>
+  <summary><b>Pick a Framework</b></summary> 
+  
+  - [ ] React.js &#x1F49C;
+    - [ ] Redux &#x1F49C;
+    - [ ] Mobx &#x1F49A;
+  - [ ] Angular &#x1F49A;
+    - [ ] RxJS &#x1F49A;
+    - [ ] NgRx &#x1F49A;
+  - [ ] Vue.js &#x1F49A;
+    - [ ] VueX &#x1F49A;
+</details>
 
 ## Back-end Roadmap
 
