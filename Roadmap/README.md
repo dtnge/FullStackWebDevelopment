@@ -16,11 +16,14 @@
 ## Front-end Roadmap
 
 <details>
-  <summary>Internet</summary>
+  <summary><b>Internet</b></summary>
   
-  ``` &#x1F49C;
-  
-  ```
+  - [ ] How does the internet work?
+  - [ ] What is HTTP?
+  - [ ] Browsers and how they work?
+  - [ ] DNS and how it works?
+  - [ ] What is Domain Name?
+  - [ ] What is hosting?
 </details>
 
 ## Back-end Roadmap
