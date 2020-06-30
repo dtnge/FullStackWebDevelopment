@@ -2,7 +2,7 @@
 
 ## Essentials
 
-- [ ] <span style="background-color: #FFFF00">Git - Version Control</span>
+- [ ] <smark>Git - Version Control</mark>
 - [ ] <span style="background-color: #FFFF00">Basic Terminal Usage</span>
 - [ ] <span style="background-color: #FFFF00">Data Structures & Algorithms</span>
 - [ ] <span style="background-color: #FFFF00">GitHub</span>
