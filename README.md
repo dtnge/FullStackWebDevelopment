@@ -5,7 +5,7 @@ Web Development
 
 ## Introduction
 
-[] Git - Version Control
+- [ ] Git - Version Control
 
 ## Front-end Rodmap
 
