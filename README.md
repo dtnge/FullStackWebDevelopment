@@ -26,19 +26,13 @@ Web Development
 ## Front-end Rodmap
 
 <details>
-<summary><i>Internet</i></summry>
-
-> How does the Internet work?
-
-> What is HTTP?
-
-> Browser and how they work?
-
-> DNS and how it work?
-
-> What is Domain Name?
-
-> What is hosting?
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 </details>
 
 ## Back-end Roadmap
