@@ -7,7 +7,7 @@ Web Development
 
 ### Essentials
 
-- [ ] <img src="1.png"></img>
+- [ ] Git - Version Control
 - [ ] Basic Terminal Usage
 - [ ] Data Structures & Algorithms
 - [ ] GitHub
@@ -24,9 +24,9 @@ Web Development
 3. DevOps
 
 ## Front-end Rodmap
-
+- [ ] Internet
 <details>
-  <summary><b>Internet</b></summary>
+  <summary></summary>
   
   1. How does the internet work?
   2. What is HTTP?
