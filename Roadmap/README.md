@@ -2,16 +2,16 @@
 
 ## Essentials
 
-- [ ] <smark>Git - Version Control</mark>
-- [ ] <span style="background-color: #FFFF00">Basic Terminal Usage</span>
-- [ ] <span style="background-color: #FFFF00">Data Structures & Algorithms</span>
-- [ ] <span style="background-color: #FFFF00">GitHub</span>
-- [ ] <span style="background-color: #FFFF00">Licenses</span>
-- [ ] <span style="background-color: #FFFF00">Semantic Versioning</span>
-- [ ] <span style="background-color: #FFFF00">SSH</span>
-- [ ] <span style="background-color: #FFFF00">HTTP/HTTPS and APIs</span>
-- [ ] <span style="background-color: #FFFF00">Design Pattern</span>
-- [ ] <span style="background-color: #FFFF00">Character Encoding</span>
+- [ ] Git - Version Control (&#x1F49B;)
+- [ ] Basic Terminal Usage (&#x1F49B;)
+- [ ] Data Structures & Algorithms (&#x1F49B;)
+- [ ] GitHub (&#x1F49B;)
+- [ ] Licenses (&#x1F49B;)
+- [ ] Semantic Versioning (&#x1F49B;)
+- [ ] SSH (&#x1F49B;)
+- [ ] HTTP/HTTPS and APIs (&#x1F49B;)
+- [ ] Design Pattern (&#x1F49B;)
+- [ ] Character Encoding (&#x1F49B;)
 
 ## Introduction
 
