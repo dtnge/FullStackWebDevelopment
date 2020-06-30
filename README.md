@@ -30,17 +30,17 @@ Web Development
 
 <p>
 
-> How does the Internet work?
+ How does the Internet work?
 
-> What is HTTP?
+ What is HTTP?
 
-> Browser and how they work?
+ Browser and how they work?
 
-> DNS and how it work?
+ DNS and how it work?
 
-> What is Domain Name?
+ What is Domain Name?
 
-> What is hosting?
+ What is hosting?
 
 </p>
 </details>
