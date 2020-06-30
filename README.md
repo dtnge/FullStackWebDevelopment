@@ -1,46 +1,20 @@
-# Full Stack Web Development
-Web Development
+# Full Stack Repository
 
-> Roadmap for Full Stack Web Development 
+## Goal 1 - 100 days of code
 
-## Introduction
+1. Rule 1 - Learn something new every day
+2. Rule 2 - Make sure to commit every day. [Have to be something meaningful]
+3. Rule 3 - Learn every basics if required
+4. Rule 4 - Log Everyday
 
-### Essentials
+## Folder Contents
 
-- [ ] Git - Version Control
-- [ ] Basic Terminal Usage
-- [ ] Data Structures & Algorithms
-- [ ] GitHub
-- [ ] Licenses
-- [ ] Semantic Versioning
-- [ ] SSH
-- [ ] HTTP/HTTPS and APIs
-- [ ] Design Patterns
-- [ ] Character Encoding
+1. Folder 1 - Roadmap
+2. Folder 2 - Theory/Notes
+3. Folder 3 - Project
+    - Front-End
+    - Back-End
+    - DevOps
 
-### Roadmap Paths
-1. Front-end
-2. Back-end
-3. DevOps
+> To Run any project, move to the respective folder and follow the rules in README.md of that folder
 
-## Front-end Rodmap
-- [ ] Internet <details>
-  <summary></summary>
-  
-  1. How does the internet work?
-  2. What is HTTP?
-  3. Browser and how they work?
-  4. DNS and how it works?
-  5. What is Domain Name?
-  6. What is hosting?
-</details>
-
-<details>
-  <summary><b>HTML</b></summary>
-  
-  
-</details>
-
-## Back-end Roadmap
-
-## Devops Roadmap
