@@ -468,4 +468,226 @@
 
 **WebSockets** &#x1F499;
 
+<details>
+  <summary><b>Web Servers<b></summary> 
+  
+  - [ ] Nginx &#x1F49C;
+  - [ ] Apache &#x1F49A;
+  - [ ] Caddy &#x1F49A;
+  - [ ] MS IIS &#x1F49A;
+</details>
+
+<details>
+  <summary><b>1Building for scale</b></summary> 
+  
+  > General topics that you should learn and care about the sustainability of the product
+  - [ ] Migration Strategies &#x1F49C;
+    - [ ] Graceful Degradation
+    - [ ] Throttling
+    - [ ] Backpressure
+    - [ ] Loadshifting
+    - [ ] Circuit Breaker
+  - [ ] Understanding the Difference
+    - [ ] Instrumentation
+    - [ ] Monitoring
+    - [ ] Telmetry
+  - [ ] Migration Strategies &#x1F49C;
+  - [ ] Horizontal vs Vertical Scaling &#x1F49C;
+  - [ ] Building with Observability in mind &#x1F49C;
+</details>
+
+**Keep Learning**
+
 ## DevOps Roadmap
+
+<details>
+  <summary><b>Learn a Programming Language</b></summary> 
+  
+  - [ ] Python &#x1F49A;
+  - [ ] Ruby &#x1F49A;
+  - [ ] Node.js &#x1F49A;
+  - [ ] Go &#x1F49C;
+  - [ ] Rust &#x1F49A;
+  - [ ] C &#x1F49A;
+  - [ ] C++ &#x1F49A;
+
+  > It doesn't matter which language you pick, key us to get some proramming knowledge for automation
+</details>
+
+<details>
+  <summary><b>Understand different OS Concepts</b></summary> 
+  
+  - [ ] Process Management &#x1F49C;
+  - [ ] Threads and Concurrency &#x1F49C;
+  - [ ] Sockets &#x1F49C;
+  - [ ] POSIX Basics &#x1F49C;
+  - [ ] Networking Concepts &#x1F49C;
+  - [ ] Startup Management (initd) &#x1F49C;
+  - [ ] Service Management (systemd) &#x1F49C;
+  - [ ] I/O Management &#x1F49C;
+  - [ ] Virtualization &#x1F49C;
+  - [ ] Memory/Storage &#x1F49C;
+  - [ ] File Systems &#x1F49C;
+</details>
+
+<details>
+  <summary><b>Learn about Managing Servers</b></summary> 
+  
+  > Get some administration knowledge in some OS. Go with any Linux destro. Pick Ubuntu if you have a little no experience with Linux
+
+  <details>
+  <summary><b>Operating Systems</b></summary> 
+  
+  - [ ] Linux &#x1F49C;
+    - [ ] SUSE Linux &#x1F49A;
+    - [ ] Debian &#x1F49A;
+    - [ ] Fedora &#x1F49A;
+    - [ ] Ubuntu &#x1F49C;
+    - [ ] CentOS &#x1F49C;
+    - [ ] RHEL &#x1F49C;
+  - [ ] Unix &#x1F49A;
+    - [ ] Free BSD &#x1F49C;
+    - [ ] Open BSD &#x1F49A;
+    - [ ] Net BSD &#x1F49A;
+  - [ ] Windows &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Learn to live in Terminal</b></summary> 
+  
+  - [ ] Terminal multiplexer &#x1F499;
+    - [ ] tmux &#x1F49C;
+    - [ ] screen &#x1F49A;
+  - [ ] Learn Bash Scripting &#x1F49C;
+  - [ ] Vim/Nano/PowerShell/Emacs &#x1F49C;
+  - [ ] Compailing apps from source (gcc, make and other related stuff) &#x1F499;
+  - [ ] System Performance (nmon, iostat, sar, vmstat) &#x1F49C;
+  - [ ] Text Manipulation Tools (awk, sed, grep, sortm uniq, cat, cut, excho, fmt, tr, nl, egrep, fgrep, wc) &#x1F49C;
+  - [ ] Process Monitoring (ps, top, htop, atop, lsof) &#x1F49C;
+  - [ ] Network (nmap, tcpdump, ping, mtr, traceoite, dig, airmon, airodump, dig, iptables, netstat) &#x1F49C;
+  - [ ] Others (strace, dtrace, systemtap, uname, dff, history) &#x1F49C;
+</details>
+</details>
+
+<details>
+  <summary><b>Networking, Security and Protocols</b></summary> 
+  
+  - [ ] OSI Model
+  - [ ] DNS
+
+  - [ ] Emails &#x1F499;
+    - [ ] White/Grey Listing
+
+    - [ ] SMTP
+    - [ ] IMAPS
+    - [ ] POP3S
+
+    - [ ] DMARC
+    - [ ] SPF
+    - [ ] Domain Keys
+
+  - [ ] HTTP &#x1F49C;
+  - [ ] HTTPS &#x1F49C;
+  - [ ] FTP &#x1F49C;
+  - [ ] SSL/TLS &#x1F49C;
+  - [ ] SSH &#x1F49C;
+  - [ ] Port Forwarding &#x1F499;
+</details>
+
+<details>
+  <summary><b>What is and how to setup a ___________</b></summary> 
+  
+  - [ ] Reverse Proxy &#x1F49C;
+  - [ ] Caching Server &#x1F49C;
+  - [ ] Forward Proxy &#x1F49C;
+  - [ ] Load Balancer &#x1F49C;
+  - [ ] Firewall &#x1F49C;
+  - [ ] Web Server &#x1F49C;
+    - [ ] IIS &#x1F49A;
+    - [ ] Nginx &#x1F49C;
+    - [ ] Apache &#x1F49A;
+    - [ ] Tomcat &#x1F49A;
+    - [ ] Caddy &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Learn Infrastructure as a code </b></summary> 
+  
+  - [ ] Containers &#x1F49C;
+    - [ ] Docker &#x1F49C;
+    - [ ] LXC &#x1F49A;
+
+  - [ ] Configuration Management &#x1F49C;
+    - [ ] Ansible &#x1F49C;
+    - [ ] Salt &#x1F49A;
+    - [ ] Chef &#x1F49A;
+    - [ ] Puppet &#x1F49A;
+
+  - [ ] Container Orchestration &#x1F49C;
+    - [ ] Kubernetes &#x1F49C;
+    - [ ] Mesos &#x1F49A;
+    - [ ] Docker Swarm &#x1F49A;
+    - [ ] Nomad &#x1F49A;
+
+  - [ ] Infrastructure Provisioning &#x1F49C;
+    - [ ] Terraform &#x1F49C;
+    - [ ] CloudFormation &#x1F49A;
+    - [ ] Pulumi &#x1F49A;
+
+  - [ ] Service Mesh &#x1F49C;
+    - [ ] Istio &#x1F49C;
+    - [ ] Envoy &#x1F49A;
+    - [ ] Linkerd &#x1F49A;
+    - [ ] Consul &#x1F49C;  
+  </details>
+
+<details>
+  <summary><b>Learn how to monitor software and infrastructure</b></summary> 
+  
+  - [ ] Infrastructure Monitoring &#x1F49C;
+    - [ ] Prometheus &#x1F49C;
+    - [ ] Nagios &#x1F49A;
+    - [ ] Gradana &#x1F49C;
+    - [ ] Zabbix &#x1F49A;
+    - [ ] Monit &#x1F49A;
+    - [ ] Datadog &#x1F49A;
+
+  - [ ] Application Monitoring &#x1F49C;
+    - [ ] Jaeger &#x1F49C;
+    - [ ] New Relic &#x1F49C;
+    - [ ] AppDynamics &#x1F49A;
+    - [ ] Istana &#x1F49A;
+    - [ ] Open Tracing &#x1F49A;
+
+  - [ ] Logs Management 
+    - [ ] Elastic Stack &#x1F49C;
+    - [ ] Graylog &#x1F49A;
+    - [ ] Splunk &#x1F49A;
+    - [ ] Papertrail &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Cloud Providers</b></summary> 
+  
+  - [ ] AWS &#x1F49C;
+  - [ ] Google Cloud &#x1F49A;
+  - [ ] Azure &#x1F49A;
+  - [ ] Heroku &#x1F49A;
+  - [ ] Alibaba Cloud &#x1F49B;
+
+  - [ ] Digital Ocean &#x1F49C;
+  - [ ] Linode &#x1F49A;
+  - [ ] Vultr &#x1F49A;
+</details>
+
+<details>
+  <summary><b>Cloud Design Patterns</b></summary> 
+  
+  > http://bit.ly/cloud-arch-patterns
+  - [ ] Availability
+  - [ ] Data Management
+  - [ ] Design and Implementation
+  - [ ] Management and Monitoring
+</details>
+
+**Keep Learning**
