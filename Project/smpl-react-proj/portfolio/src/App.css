@@ -1,0 +1,9 @@
+body {
+  background: url(web3.jpg) no-repeat center center fixed;
+  background-size: 1900px;
+  -webkit-background: cover;
+  -moz-background: cover;
+  -o-background: cover;
+  background: cover;
+  
+}
