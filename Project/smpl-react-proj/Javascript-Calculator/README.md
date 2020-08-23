@@ -3,11 +3,6 @@
 
 React Calculator Project
 
-### Prerequisites
-
-- Basic `javascript knowledge` is required
-- ES6 snytax, arrow functions etc.
-
 ### Installing
 
 To install required packages 
