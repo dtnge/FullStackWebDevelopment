@@ -14,4 +14,5 @@ Clone the project and run the following script:
 Navigate to voice-news-app folder --->
 
 `npm install`
+
 `npm start`
