@@ -17,3 +17,5 @@ Navigate to voice-news-app folder --->
 
 
 `npm start`
+
+or access the .mp4 video to look at the demo
