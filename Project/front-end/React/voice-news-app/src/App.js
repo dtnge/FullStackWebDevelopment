@@ -3,7 +3,7 @@ import alanBtn from '@alan-ai/alan-sdk-web';
 import NewsCards from './components/NewsCards/NewsCards';
 import useStyles from './styles';
 
-import workdsToNumbers, { wordsToNumbers } from 'words-to-numbers';
+import  { wordsToNumbers } from 'words-to-numbers';
 
 const alanKey= 'b338f90826350b6c5f5322baa2e058232e956eca572e1d8b807a3e2338fdd0dc/stage';
 
