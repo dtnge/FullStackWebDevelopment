@@ -8,8 +8,8 @@ class TaskCardWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: double.infinity,
-      padding: EdgeInsets.symmetric(vertical: 32, horizontal: 24),
-      margin: EdgeInsets.only(bottom: 20),
+      padding: EdgeInsets.symmetric(vertical: 24, horizontal: 24),
+      margin: EdgeInsets.only(bottom: 10),
       decoration: BoxDecoration(
           color: Colors.white, borderRadius: BorderRadius.circular(20)),
       child: Column(
@@ -82,3 +82,4 @@ class ScrollBehaviour extends ScrollBehavior {
     return child;
   }
 }
+

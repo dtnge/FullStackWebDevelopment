@@ -29,11 +29,20 @@ class _HomePageState extends State<HomePage> {
                 children: [
                   Container(
                     margin: EdgeInsets.only(bottom: 32, top: 32),
-                    child: Image(
-                        height: 50,
-                        width: 50,
-                        image: AssetImage('assets/images/planer.png')),
+                    child: Material(
+                      shape: CircleBorder(),
+                      elevation: 10,
+                      child: Image(
+                          height: 70,
+                          width: 70,
+                          image: AssetImage('assets/images/planer.png')),
+                    ),
                   ),
+                  // Column(
+                  //   children: [
+                  //     DefaultWidget()
+                  //   ],
+                  // ),
                   Expanded(
                     //to determine what is the future state in the current state
                     //to populate the task saved in the db to UI
@@ -48,11 +57,14 @@ class _HomePageState extends State<HomePage> {
                               itemBuilder: (context, index) {
                                 return GestureDetector(
                                   onTap: () {
-                                    Navigator.push(context, MaterialPageRoute(
-                                      builder: (context) => TaskPage(task: snapshot.data[index], 
+                                    Navigator.push(
+                                      context,
+                                      MaterialPageRoute(
+                                        builder: (context) => TaskPage(
+                                          task: snapshot.data[index],
+                                        ),
                                       ),
-                                    )
-                                    ,).then((value){
+                                    ).then((value) {
                                       setState(() {});
                                     });
                                   },
@@ -75,7 +87,8 @@ class _HomePageState extends State<HomePage> {
                     onTap: () {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => TaskPage(task: null)),
+                        MaterialPageRoute(
+                            builder: (context) => TaskPage(task: null)),
                       ).then((value) {
                         // to repopulate the homepage without refresh ---> setting the state
                         setState(() {});

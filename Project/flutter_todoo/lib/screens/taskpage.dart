@@ -105,7 +105,6 @@ class _TaskPageState extends State<TaskPage> {
                               await _dbHelper.updateTaskTitle(_taskId, value);
                               print("updated new task");
                             }
-
                             _descriptionFocus.requestFocus();
                           }
                         },
