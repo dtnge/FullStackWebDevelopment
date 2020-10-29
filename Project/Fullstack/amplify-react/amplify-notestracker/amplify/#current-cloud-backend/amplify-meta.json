@@ -1,0 +1,56 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "amplifynotestracker-20201024140751-authRole",
+			"UnauthRoleArn": "arn:aws:iam::499958471990:role/amplifynotestracker-20201024140751-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::499958471990:role/amplifynotestracker-20201024140751-authRole",
+			"Region": "ap-southeast-2",
+			"DeploymentBucketName": "amplifynotestracker-20201024140751-deployment",
+			"UnauthRoleName": "amplifynotestracker-20201024140751-unauthRole",
+			"StackName": "amplifynotestracker-20201024140751",
+			"StackId": "arn:aws:cloudformation:ap-southeast-2:499958471990:stack/amplifynotestracker-20201024140751/57331cd0-1595-11eb-ba87-06d1a80883f0"
+		}
+	},
+	"auth": {
+		"cognitod8eefd29": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/amplifynotestracker-20201024140751-deployment/amplify-cfn-templates/auth/cognitod8eefd29-cloudformation-template.yml",
+				"logicalId": "authcognitod8eefd29"
+			},
+			"lastPushTimeStamp": "2020-10-24T01:34:04.785Z",
+			"output": {
+				"AppClientSecret": "6fi04qvt0olg5m04icca8rlir7evsk4i9fvgrbr80o2444mgc3d",
+				"UserPoolId": "ap-southeast-2_oWUKXkJlb",
+				"AppClientIDWeb": "224pfj1u500ths5pfaupafcfni",
+				"AppClientID": "1j8ov7gerlf2fdb3n9dvj6c8qh",
+				"IdentityPoolId": "ap-southeast-2:423b7af4-9a1d-4b47-a277-e5efd406e7f9",
+				"IdentityPoolName": "cognitod8eefd29_identitypool_d8eefd29",
+				"UserPoolName": "cognitod8eefd29_userpool_d8eefd29"
+			},
+			"lastPushDirHash": "J0om3tibEAJ3M41vzZ2fxebgvCM="
+		}
+	},
+	"api": {
+		"amplifynotestracker": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"securityType": "AMAZON_COGNITO_USER_POOLS",
+				"GraphQLAPIIdOutput": "4r76uyxaprcctnuttr735a3kd4",
+				"GraphQLAPIEndpointOutput": "https://ovc5l7ydqjgk7kkwz6ouxzsxki.appsync-api.ap-southeast-2.amazonaws.com/graphql",
+				"GraphQLAPIKeyOutput": "da2-ueejagj2wrhepb426g45pyjosu",
+				"AuthCognitoUserPoolIdOutput": "ap-southeast-2_oWUKXkJlb",
+				"AuthCognitoUserPoolNativeClientId": "See UserPool: ap-southeast-2_oWUKXkJlb",
+				"AuthCognitoUserPoolJSClientId": "See UserPool: ap-southeast-2_oWUKXkJlb"
+			},
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/amplifynotestracker-20201024140751-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+				"logicalId": "apiamplifynotestracker"
+			},
+			"lastPushTimeStamp": "2020-10-24T01:34:04.785Z",
+			"lastPushDirHash": "3UP/SFXQ+4bg+3CEILq8r/FxpIE="
+		}
+	}
+}

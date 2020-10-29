@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifynotestracker-20201024140751-authRole",
+            "UnauthRoleArn": "arn:aws:iam::499958471990:role/amplifynotestracker-20201024140751-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::499958471990:role/amplifynotestracker-20201024140751-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "amplifynotestracker-20201024140751-deployment",
+            "UnauthRoleName": "amplifynotestracker-20201024140751-unauthRole",
+            "StackName": "amplifynotestracker-20201024140751",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:499958471990:stack/amplifynotestracker-20201024140751/57331cd0-1595-11eb-ba87-06d1a80883f0"
+        }
+    }
+}
