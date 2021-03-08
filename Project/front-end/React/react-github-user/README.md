@@ -56,7 +56,7 @@ Details regarding the libraries and other information are listed below in detail
   - Allowed Callback URLs
   - Allowed Logout URLs
   - Allowed Web Origins
-  - SAVE CHANGES!!!!!!!!!!!!!!!
+  - SAVE CHANGES!
 
 - Connections
   email,social
