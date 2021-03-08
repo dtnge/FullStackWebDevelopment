@@ -10,7 +10,20 @@
 
 ### Charts
 - Pie chart (mostly used programming langauage and proportion)
-- 
+- Bar chart (Top working repos for the user)
+
+The application main goal is to find the github user and map all the dashboard details of the user including repositories, followers and programming language used in the repository.
+
+It also summarise the user's activities. The application uses libraries including:
+- Auth0 for authenticaiton
+- React fushioncharts
+- Github API
+
+Details regarding the libraries and other information are listed below in detail. Please feel free to run the application by following run instructions:
+- `cd react-github-user`
+- `npm i`
+- `npm start`
+  
 ## Gihthub API
 
 - [Root Endpoint](https://api.github.com)
