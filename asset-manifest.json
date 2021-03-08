@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github-search/static/css/main.ab6784f7.chunk.css",
+    "main.js": "/github-search/static/js/main.2b1e9058.chunk.js",
+    "main.js.map": "/github-search/static/js/main.2b1e9058.chunk.js.map",
+    "runtime-main.js": "/github-search/static/js/runtime-main.0993e2ff.js",
+    "runtime-main.js.map": "/github-search/static/js/runtime-main.0993e2ff.js.map",
+    "static/js/2.5a46cf75.chunk.js": "/github-search/static/js/2.5a46cf75.chunk.js",
+    "static/js/2.5a46cf75.chunk.js.map": "/github-search/static/js/2.5a46cf75.chunk.js.map",
+    "index.html": "/github-search/index.html",
+    "precache-manifest.9f5d6793904e38c7c9ced38092dc68fd.js": "/github-search/precache-manifest.9f5d6793904e38c7c9ced38092dc68fd.js",
+    "service-worker.js": "/github-search/service-worker.js",
+    "static/css/main.ab6784f7.chunk.css.map": "/github-search/static/css/main.ab6784f7.chunk.css.map",
+    "static/js/2.5a46cf75.chunk.js.LICENSE.txt": "/github-search/static/js/2.5a46cf75.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/github-search/static/media/github.5806dd83.png",
+    "static/media/preloader.gif": "/github-search/static/media/preloader.c114fda3.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0993e2ff.js",
+    "static/js/2.5a46cf75.chunk.js",
+    "static/css/main.ab6784f7.chunk.css",
+    "static/js/main.2b1e9058.chunk.js"
+  ]
+}
